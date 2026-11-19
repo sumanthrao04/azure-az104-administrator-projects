@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+*.pem
+*.pfx
+*.key
+
+*.log
