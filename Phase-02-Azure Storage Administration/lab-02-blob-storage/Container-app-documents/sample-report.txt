@@ -1,0 +1,5 @@
+AZ-104 Azure Blob Storage Lab
+Environment: Development
+Project: Azure Administrator Learning
+Classification: Sample Data
+Report Version : 1.0.1

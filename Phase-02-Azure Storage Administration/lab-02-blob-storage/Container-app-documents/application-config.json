@@ -1,0 +1,8 @@
+{
+  "application": "az104-storage-demo",
+  "environment": "development",
+  "version": "1.0",
+  "logging": {
+    "level": "INFO"
+  }
+}
