@@ -1,0 +1,3 @@
+AZ-104 Daily Application Report
+Environment: Development
+Application Status: Healthy
